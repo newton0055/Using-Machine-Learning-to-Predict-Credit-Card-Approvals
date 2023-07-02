@@ -1,5 +1,5 @@
 # Using-Machine-Learning-to-Predict-Credit-Card-Approvals
-building an automatic credit card approval predictor using machine learning techniques
+
 # Credit Card Approval Predictor
 
 This project aims to develop a machine learning model for predicting credit card approval using the Credit Card Approval dataset from the UCI Machine Learning Repository. The goal is to automate the credit card application analysis process, which is currently mundane, error-prone, and time-consuming for commercial banks.
